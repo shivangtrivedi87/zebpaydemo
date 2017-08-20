@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_5">5dp</dimen>
+    <integer name="splash_duration">1000</integer>
+    <integer name="rotate_duration">3000</integer>
+    <integer name="anti_rotate_duration">1500</integer>
+    <integer name="timeoutMs">120000</integer>
+    <dimen name="logo_text_size">25sp</dimen>
+    <dimen name="feed_image">60dp</dimen>
+</resources>

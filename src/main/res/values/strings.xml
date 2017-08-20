@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"Zebpay"</string>
+    <string name="msg_no_internet">Host server is not reachable. Please try again later.</string>
+    <string name="title_ticker">Ticker</string>
+    <string name="title_activity_feed">Activity Feed</string>
+
+</resources>
