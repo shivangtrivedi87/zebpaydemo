@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dsoft.karigardiary",
+    "sha256_cert_fingerprints":
+    ["44:CB:98:07:D1:29:F1:48:85:6C:71:99:A0:23:A1:24:1B:39:9B:CF:06:6D:AF:9B:39:2B:C2:F7:B9:4A:BF:5A"]
+  }
+}]
